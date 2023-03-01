@@ -62,3 +62,6 @@ Token grabber with multiple features
 2. Run the program
 
 3. Toggle the options you want and insert the webhook
+
+
+![image](https://user-images.githubusercontent.com/124702331/222161440-4efdb6b6-35ae-44ac-8b0b-7b0ec92608a1.png)
